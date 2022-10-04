@@ -253,7 +253,7 @@
             </div>
             <div class="content">
               <a href="#" class="title">Chorrillos, Perú</a>
-              <p class="sub-title" style="color:white">Jr Justo Pastor Davila 117</p>
+              <p class="sub-title" style="color:white">Jr Justo Pastor Davila 117,  (altura del parque fatina , en la ex  Av Huaylas )  Chorrillos - Lima </p>
             </div>
           </div>
         </div>
